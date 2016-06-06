@@ -27,8 +27,9 @@ A curated list of super-resolution resources and a benchmark for single image su
  * DRCN
   * Deeply-Recursive Convolutional Network for Image Super-Resolution (CVPR2016), Jiwon Kim et al. 
 ## Datasets
-| Test Dataset | Image source ||
-|---- | ---|----| ----|
+
+| Test Dataset | Image source |
+|---- | ---|----|
 | **Set 5** |  [Bevilacqua et al. BMVC 2012](http://people.rennes.inria.fr/Aline.Roumy/results/SR_BMVC12.html)  |
 | **Set 14** |  [Zeyde et al. LNCS 2010](https://sites.google.com/site/romanzeyde/research-interests)  |
 | **BSD 100** | [Martin et al. ICCV 2001](https://www.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/) |
