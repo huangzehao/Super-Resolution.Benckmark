@@ -1,7 +1,7 @@
 # Super-Resolution.Benckmark
 A curated list of super-resolution resources and a benchmark for single image super-resolution algorithms.
 
-## Papers
+## State-of-the-art algorithms
  * ScSR [[Web]](http://www.ifp.illinois.edu/~jyang29/ScSR.htm)
   * Image super-resolution as sparse representation of raw image patches (CVPR2008), Jianchao Yang et al.
   * Image super-resolution via sparse representation (TIP2010), Jianchao Yang et al.
@@ -40,3 +40,13 @@ A curated list of super-resolution resources and a benchmark for single image su
 |---- | ---|----|
 | **Yang 91** |  [Yang et al. CVPR 2008](http://www.ifp.illinois.edu/~jyang29/ScSR.htm)  |
 | **BSD 200** | [Martin et al. ICCV 2001](https://www.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/) |
+
+## Quantitative comparisons
+
+##### Results on Set 5
+
+|  Scale    | Bicubic | A+  | SRCNN | SelfExSR | CSCN | VDSR | DRCN |
+|:---------:|:-------:|:--------:|:------:|:----:|:----:|:----:|
+| **2x** - PSNR/SSIM|   33.66/0.9929	|   36.54/0.9544	|   36.66/0.9542	|   36.49/0.9537	|  36.93/0.9552	|  37.53/0.9587	|  37.63/0.9588	|    
+| **3x** - PSNR/SSIM|   30.39/0.8682	|   32.59/0.9088	|   32.75/0.9090	|   32.58/0.9093	|  33.10/0.9144	|  33.66/0.9213	|  33.82/0.9226	|  
+| **4x** - PSNR/SSIM|   28.42/0.8104	|   30.28/0.8603	|   30.48/0.8628	|   30.31/0.8619	|  30.86/0.8732	|  31.35/0.8838	|  31.53/0.8854	|  
