@@ -42,8 +42,8 @@ A curated list of super-resolution resources and a benchmark for single image su
 | **BSD 200** | [Martin et al. ICCV 2001](https://www.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/) |
 
 ## Quantitative comparisons
-
 Results from papers of VDSR, DRCN, CSCN and IA.
+
 |  Algorithms    | Bicubic | A+  | SRCNN | SelfExSR | CSCN | VDSR | DRCN | IA |
 |:---------:|:-------:|:--------:|:------:|:----:|:----:|:----:|:----:|:----:|
 |Train Dataset|   --	|   Yang 91	|   ImageNet	|   --	|  Yang 91	|  Yang 91 && BSD 200 (Multi Scale)	|  Yang 91	| Yang 91|    
