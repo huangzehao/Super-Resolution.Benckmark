@@ -26,6 +26,7 @@ A curated list of super-resolution resources and a benchmark for single image su
   * Accurate Image Super-Resolution Using Very Deep Convolutional Networks (CVPR2016), Jiwon Kim et al.
  * DRCN
   * Deeply-Recursive Convolutional Network for Image Super-Resolution (CVPR2016), Jiwon Kim et al. 
+ 
 ## Datasets
 
 | Test Dataset | Image source |
