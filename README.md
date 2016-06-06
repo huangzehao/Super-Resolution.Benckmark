@@ -42,7 +42,7 @@ A curated list of super-resolution resources and a benchmark for single image su
 | **BSD 200** | [Martin et al. ICCV 2001](https://www.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/) |
 
 ## Quantitative comparisons
-Results from papers of VDSR, DRCN and CSCN.
+Results from papers of VDSR, DRCN, CSCN and IA.
 ##### Results on Set 5
 
 |  Scale    | Bicubic | A+  | SRCNN | SelfExSR | CSCN | VDSR | DRCN | IA |
