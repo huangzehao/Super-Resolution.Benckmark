@@ -43,6 +43,12 @@ A curated list of super-resolution resources and a benchmark for single image su
 
 ## Quantitative comparisons
 Results from papers of VDSR, DRCN, CSCN and IA.
+|  Algorithms    | Bicubic | A+  | SRCNN | SelfExSR | CSCN | VDSR | DRCN | IA |
+|:---------:|:-------:|:--------:|:------:|:----:|:----:|:----:|:----:|:----:|
+|Train Dataset|   --	|   Yang 91	|   ImageNet	|   --	|  Yang 91	|  Yang 91 && BSD 200 (Multi Scale)	|  Yang 91	| Yang 91|    
+|W/O Data Augmentation|   --	|  	|   W	 |   --	| W	|  W	|  W	|W|
+|Multi Scale|   --	| Multi Model 	| Multi Model |   --	|Multi Model Casade|Single Model|Multi Model	|Multi Model|
+|Test Method|   --	|   Common	|   Common	|   Common	|  Common	|  Common	|  Common	|Enhanced Prediction|  
 ##### Results on Set 5
 
 |  Scale    | Bicubic | A+  | SRCNN | SelfExSR | CSCN | VDSR | DRCN | IA |
