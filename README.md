@@ -1,5 +1,5 @@
-# Awesome Super-Resolution
-A curated list of awesome super-resolution resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) and a benchmark for single image super-resolution.
+# Super-Resolution.Benckmark
+A curated list of super-resolution resources and a benchmark for single image super-resolution algorithms.
 
 ## Papers
  * ScSR [[Web]](http://www.ifp.illinois.edu/~jyang29/ScSR.htm)
