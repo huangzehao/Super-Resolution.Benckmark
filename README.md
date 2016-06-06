@@ -38,5 +38,5 @@ A curated list of super-resolution resources and a benchmark for single image su
 
 | Train Dataset | Image source |
 |---- | ---|----|
-| **Yang 91** |  [Jianchao Yang et al. CVPR 2008](http://www.ifp.illinois.edu/~jyang29/ScSR.htm)  |
+| **Yang 91** |  [Yang et al. CVPR 2008](http://www.ifp.illinois.edu/~jyang29/ScSR.htm)  |
 | **BSD 200** | [Martin et al. ICCV 2001](https://www.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/) |
