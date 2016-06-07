@@ -2,25 +2,29 @@
 A curated list of super-resolution resources and a benchmark for single image super-resolution algorithms.
 
 ## State-of-the-art algorithms
-### Classical Sparse Coding Method
+#### Classical Sparse Coding Method
  * ScSR [[Web]](http://www.ifp.illinois.edu/~jyang29/ScSR.htm)
   * Image super-resolution as sparse representation of raw image patches (CVPR2008), Jianchao Yang et al.
   * Image super-resolution via sparse representation (TIP2010), Jianchao Yang et al.
   * Coupled dictionary training for image super-resolution (TIP2011), Jianchao Yang et al.
-### Anchored Neighborhood Regression Method
+ 
+#### Anchored Neighborhood Regression Method
  * ANR [[Web]](http://www.vision.ee.ethz.ch/~timofter/ICCV2013_ID1774_SUPPLEMENTARY/index.html)
   * Anchored Neighborhood Regression for Fast Example-Based Super-Resolution (ICCV2013), Radu Timofte et al.
  * A+ [[Web]](http://www.vision.ee.ethz.ch/~timofter/ACCV2014_ID820_SUPPLEMENTARY/)
   * A+: Adjusted Anchored Neighborhood Regression for Fast Super-Resolution (ACCV2014), Radu Timofte et al.
  * IA [[Web]](http://www.vision.ee.ethz.ch/~timofter/CVPR2016_ID769_SUPPLEMENTARY/index.html)
   * Seven ways to improve example-based single image super resolution (CVPR2016), Radu Timofte et al.
-### Self-Exemplars
+ 
+#### Self-Exemplars
  * SelfExSR [[Web]](https://sites.google.com/site/jbhuang0604/publications/struct_sr)
   * Single Image Super-Resolution from Transformed Self-Exemplars (CVPR2015), Jia-Bin Huang et al.
-### Bayes
+ 
+#### Bayes
  * NBSRF [[Web]](http://jordisalvador-image.blogspot.com/2015/08/iccv-2015.html)
   * Naive Bayes Super-Resolution Forest (ICCV2015), Jordi Salvador et al.
-### Deep Learning Method
+ 
+#### Deep Learning Method
  * SRCNN [[Web]](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html)
   * Image Super-Resolution Using Deep Convolutional Networks (ECCV2014), Chao Dong et al.
   * Image Super-Resolution Using Deep Convolutional Networks (TPAMI2015), Chao Dong et al.
