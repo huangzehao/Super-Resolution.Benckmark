@@ -22,9 +22,9 @@ A curated list of super-resolution resources and a benchmark for single image su
  * CSCN [[Web]](http://www.ifp.illinois.edu/~dingliu2/iccv15/)
   * Deep Networks for Image Super-Resolution with Sparse Prior (ICCV2015), Zhaowen Wang et al.
   * Robust Single Image Super-Resolution via Deep Networks with Sparse Prior (TIP2016), Ding Liu et al.
- * VDSR [[Unofficial Implementation by huangzehao]](https://github.com/huangzehao/caffe-vdsr)
+ * VDSR [[Arxiv]](http://arxiv.org/abs/1511.04587) [[Unofficial Implementation in Caffe]](https://github.com/huangzehao/caffe-vdsr)
   * Accurate Image Super-Resolution Using Very Deep Convolutional Networks (CVPR2016), Jiwon Kim et al.
- * DRCN
+ * DRCN [[Arxiv]](http://arxiv.org/abs/1511.04491)
   * Deeply-Recursive Convolutional Network for Image Super-Resolution (CVPR2016), Jiwon Kim et al. 
  
 ## Datasets
@@ -43,14 +43,7 @@ A curated list of super-resolution resources and a benchmark for single image su
 
 ## Quantitative comparisons
 Results from papers of VDSR, DRCN, CSCN and IA.
-
-|  Algorithms    | Bicubic | A+  | SRCNN | SelfExSR | CSCN | VDSR | DRCN | IA |
-|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
-|Train Dataset|   --	|   Yang 91	|   ImageNet	|   --	|  Yang 91	|  Yang 91 && BSD 200 (Multi Scale)	|  Yang 91	| Yang 91|    
-|W/O Data Augmentation|   --	| -- 	|   W	 |   --	| W	|  W	|  W	|W|
-|Multi Scale|   --	| Multi Model 	| Multi Model |   --	|Multi Model Casade|Single Model|Multi Model	|Multi Model|
-|Test Method|   --	|   Common	|   Common	|   Common	|  Common	|  Common	|  Common	|Enhanced Prediction|  
-
+Note: IA use enchanced prediction method.
 ##### Results on Set 5
 
 |  Scale    | Bicubic | A+  | SRCNN | SelfExSR | CSCN | VDSR | DRCN | IA |
