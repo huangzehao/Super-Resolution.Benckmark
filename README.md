@@ -53,7 +53,7 @@ A curated list of super-resolution resources and a benchmark for single image su
 ## Quantitative comparisons
 Results from papers of VDSR, DRCN, CSCN and IA.
 
-**Note:** IA use enchanced prediction trick to improve predicted result.
+**Note:** IA use **enchanced prediction** trick to improve predicted result.
 ##### Results on Set 5
 
 |  Scale    | Bicubic | A+  | SRCNN | SelfExSR | CSCN | VDSR | DRCN | IA |
