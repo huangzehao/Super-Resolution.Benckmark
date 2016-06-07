@@ -25,7 +25,7 @@ A curated list of super-resolution resources and a benchmark for single image su
   * Naive Bayes Super-Resolution Forest (ICCV2015), Jordi Salvador et al.
  
 #### Deep Learning Method
- * SRCNN [[Web]](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html)
+ * SRCNN [[Web]](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html) [[waifu2x by nagadomi]](https://github.com/nagadomi/waifu2x)
   * Image Super-Resolution Using Deep Convolutional Networks (ECCV2014), Chao Dong et al.
   * Image Super-Resolution Using Deep Convolutional Networks (TPAMI2015), Chao Dong et al.
  * CSCN [[Web]](http://www.ifp.illinois.edu/~dingliu2/iccv15/)
