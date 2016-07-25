@@ -35,6 +35,8 @@ A curated list of super-resolution resources and a benchmark for single image su
   * Accurate Image Super-Resolution Using Very Deep Convolutional Networks (CVPR2016), Jiwon Kim et al.
  * DRCN [[Arxiv]](http://arxiv.org/abs/1511.04491)
   * Deeply-Recursive Convolutional Network for Image Super-Resolution (CVPR2016), Jiwon Kim et al. 
+ * FSRCNN [[PDF]](http://personal.ie.cuhk.edu.hk/~ccloy/files/eccv_2016_accelerating.pdf)
+  * Acclerating the Super-Resolution Convolutional Neural Network (ECCV2016), Dong Chao et al.
  
 ## Datasets
 
