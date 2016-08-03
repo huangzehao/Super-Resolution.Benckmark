@@ -31,9 +31,9 @@ A curated list of super-resolution resources and a benchmark for single image su
  * CSCN [[Web]](http://www.ifp.illinois.edu/~dingliu2/iccv15/)
   * Deep Networks for Image Super-Resolution with Sparse Prior (ICCV2015), Zhaowen Wang et al.
   * Robust Single Image Super-Resolution via Deep Networks with Sparse Prior (TIP2016), Ding Liu et al.
- * VDSR [[Arxiv]](http://arxiv.org/abs/1511.04587) [[Unofficial Implementation in Caffe]](https://github.com/huangzehao/caffe-vdsr)
+ * VDSR [[Web]](http://cv.snu.ac.kr/research/VDSR/) [[Unofficial Implementation in Caffe]](https://github.com/huangzehao/caffe-vdsr)
   * Accurate Image Super-Resolution Using Very Deep Convolutional Networks (CVPR2016), Jiwon Kim et al.
- * DRCN [[Arxiv]](http://arxiv.org/abs/1511.04491)
+ * DRCN [[Web]](http://cv.snu.ac.kr/research/DRCN/)
   * Deeply-Recursive Convolutional Network for Image Super-Resolution (CVPR2016), Jiwon Kim et al. 
  * FSRCNN [[PDF]](http://personal.ie.cuhk.edu.hk/~ccloy/files/eccv_2016_accelerating.pdf)
   * Acclerating the Super-Resolution Convolutional Neural Network (ECCV2016), Dong Chao et al.
