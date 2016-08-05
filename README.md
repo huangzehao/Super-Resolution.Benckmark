@@ -1,6 +1,5 @@
 # Super-Resolution.Benckmark
 A curated list of super-resolution resources and a benchmark for single image super-resolution algorithms.
-
 ## State-of-the-art algorithms
 #### Classical Sparse Coding Method
  * ScSR [[Web]](http://www.ifp.illinois.edu/~jyang29/ScSR.htm)
