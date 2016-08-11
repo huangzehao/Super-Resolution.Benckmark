@@ -3,7 +3,7 @@ A curated list of super-resolution resources and a benchmark for single image su
 
 See my implementated super-resolution algorithms:
 
-+ [FSRCNN](examples_train/FSRCNN)
++ ~~[FSRCNN](examples_train/FSRCNN)~~
 + [VDSR](https://github.com/huangzehao/caffe-vdsr)
 + [CSCN](https://github.com/huangzehao/SCN_Matlab)
 + [PSSR](examples_train/PSSR)
