@@ -4,10 +4,9 @@ test_iter: 7168
 # Carry out testing every 500 training iterations.
 test_interval: 5000
 # The base learning rate, momentum and the weight decay of the network.
-base_lr: 0.1
+base_lr: 0.001
 momentum: 0.9
 weight_decay: 0.0001
-clip_gradients: 0.1
 # The learning rate policy
 lr_policy: "step"
 gamma: 0.1
