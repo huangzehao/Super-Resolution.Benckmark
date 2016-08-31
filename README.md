@@ -3,10 +3,8 @@ A curated list of super-resolution resources and a benchmark for single image su
 
 See my implementated super-resolution algorithms:
 
-+ ~~[FSRCNN](examples_train/FSRCNN)~~ the training result of this implementation is not good
 + [VDSR](https://github.com/huangzehao/caffe-vdsr)
 + [CSCN](https://github.com/huangzehao/SCN_Matlab)
-+ [PSSR](examples_train/PSSR)
 
 ## State-of-the-art algorithms
 #### Classical Sparse Coding Method
