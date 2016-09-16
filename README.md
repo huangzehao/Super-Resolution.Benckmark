@@ -40,11 +40,17 @@ See my implementated super-resolution algorithms:
   * Accurate Image Super-Resolution Using Very Deep Convolutional Networks (CVPR2016), Jiwon Kim et al.
  * DRCN [[Web]](http://cv.snu.ac.kr/research/DRCN/)
   * Deeply-Recursive Convolutional Network for Image Super-Resolution (CVPR2016), Jiwon Kim et al. 
- * PSSR [PDF](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shi_Real-Time_Single_Image_CVPR_2016_paper.pdf)
+ * PSSR [[PDF]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shi_Real-Time_Single_Image_CVPR_2016_paper.pdf)
   * Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network (CVPR2016), Wenzhe Shi et al.
  * FSRCNN [[PDF]](http://personal.ie.cuhk.edu.hk/~ccloy/files/eccv_2016_accelerating.pdf)
   * Acclerating the Super-Resolution Convolutional Neural Network (ECCV2016), Dong Chao et al.
- 
+
+#### Perceptual Loss
+ * [[PDF]](http://cs.stanford.edu/people/jcjohns/papers/eccv16/JohnsonECCV16.pdf)
+  * Perceptual Losses for Real-Time Style Transfer and Super-Resolution (ECCV2016), Justin Johnson et al.
+ * SRGAN [[PDF]](http://arxiv.org/pdf/1609.04802.pdf)
+  * Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network, Christian Ledig et al.
+
 ## Datasets
 
 | Test Dataset | Image source |
