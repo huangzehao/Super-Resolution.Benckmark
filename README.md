@@ -40,7 +40,7 @@ See my implementated super-resolution algorithms:
   * Accurate Image Super-Resolution Using Very Deep Convolutional Networks (CVPR2016), Jiwon Kim et al.
  * DRCN [[Web]](http://cv.snu.ac.kr/research/DRCN/)
   * Deeply-Recursive Convolutional Network for Image Super-Resolution (CVPR2016), Jiwon Kim et al. 
- * PSSR [[PDF]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shi_Real-Time_Single_Image_CVPR_2016_paper.pdf)[[Implementation in tensorflow]](https://github.com/Tetrachrome/subpixel)
+ * ESPCN [[PDF]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shi_Real-Time_Single_Image_CVPR_2016_paper.pdf)[[Implementation in tensorflow]](https://github.com/Tetrachrome/subpixel)
   * Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network (CVPR2016), Wenzhe Shi et al.
   * Is the deconvolution layer the same as a convolutional layer? [[PDF]](https://arxiv.org/ftp/arxiv/papers/1609/1609.07009.pdf)
  * FSRCNN [[Web]](http://mmlab.ie.cuhk.edu.hk/projects/FSRCNN.html)
