@@ -46,11 +46,19 @@ See my implementated super-resolution algorithms:
  * FSRCNN [[Web]](http://mmlab.ie.cuhk.edu.hk/projects/FSRCNN.html)
   * Acclerating the Super-Resolution Convolutional Neural Network (ECCV2016), Dong Chao et al.
 
-#### Perceptual Loss
- * [[PDF]](http://cs.stanford.edu/people/jcjohns/papers/eccv16/JohnsonECCV16.pdf)
+#### Perceptual Loss and GAN
+ * Perceptual Loss [[PDF]](http://cs.stanford.edu/people/jcjohns/papers/eccv16/JohnsonECCV16.pdf)
   * Perceptual Losses for Real-Time Style Transfer and Super-Resolution (ECCV2016), Justin Johnson et al.
  * SRGAN [[PDF]](http://arxiv.org/pdf/1609.04802.pdf)
   * Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network, Christian Ledig et al.
+ * [PDF](https://arxiv.org/pdf/1610.04490.pdf)
+  * AMORTISED MAP INFERENCE FOR IMAGE SUPER-RESOLUTION, Casper Kaae Sønderby et al.
+
+## Dicussion
+#### Deconvolution and Sub-Pixel Convolution
+ * [Deconvolution and Checkerboard Artifacts](http://distill.pub/2016/deconv-checkerboard/)
+ * [SubPixel](https://github.com/Tetrachrome/subpixel)
+ 
 
 ## Datasets
 
@@ -65,8 +73,9 @@ See my implementated super-resolution algorithms:
 |---- | ---|----|
 | **Yang 91** |  [Yang et al. CVPR 2008](http://www.ifp.illinois.edu/~jyang29/ScSR.htm)  |
 | **BSD 200** | [Martin et al. ICCV 2001](https://www.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/) |
-| **BSD 200** | [Martin et al. ICCV 2001](https://www.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/) |
-| **General 100** | [Dong et al. ECCV 2016](http://mmlab.ie.cuhk.edu.hk/projects/FSRCNN.html)
+| **General 100** | [Dong et al. ECCV 2016](http://mmlab.ie.cuhk.edu.hk/projects/FSRCNN.html) |
+| **ImageNet** | [Olga Russakovsky et al. IJCV 2015](http://www.image-net.org/) |
+| **COCO**| [Tsung-Yi Lin et al. ECCV 2014](http://mscoco.org/)
 ## Quantitative comparisons
 Results from papers of VDSR, DRCN, CSCN and IA.
 
