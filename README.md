@@ -54,7 +54,7 @@ Build a benckmark like [SelfExSR_Code](https://sites.google.com/site/jbhuang0604
   * Perceptual Losses for Real-Time Style Transfer and Super-Resolution (ECCV2016), Justin Johnson et al.
  * SRGAN [[PDF]](http://arxiv.org/pdf/1609.04802.pdf)
   * Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network, Christian Ledig et al.
- * [PDF](https://arxiv.org/pdf/1610.04490.pdf)
+ * AffGAN [[PDF]](https://arxiv.org/pdf/1610.04490.pdf)
   * AMORTISED MAP INFERENCE FOR IMAGE SUPER-RESOLUTION, Casper Kaae Sønderby et al.
 
 ## Dicussion
