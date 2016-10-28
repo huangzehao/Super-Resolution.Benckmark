@@ -52,7 +52,7 @@ Build a benckmark like [SelfExSR_Code](https://sites.google.com/site/jbhuang0604
 #### Perceptual Loss and GAN
  * Perceptual Loss [[PDF]](http://cs.stanford.edu/people/jcjohns/papers/eccv16/JohnsonECCV16.pdf)
   * Perceptual Losses for Real-Time Style Transfer and Super-Resolution (ECCV2016), Justin Johnson et al.
- * SRGAN [[PDF]](http://arxiv.org/pdf/1609.04802.pdf)
+ * SRGAN [[PDF]](https://arxiv.org/abs/1609.04802)
   * Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network, Christian Ledig et al.
  * AffGAN [[PDF]](https://arxiv.org/pdf/1610.04490.pdf)
   * AMORTISED MAP INFERENCE FOR IMAGE SUPER-RESOLUTION, Casper Kaae Sønderby et al.
