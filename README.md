@@ -56,6 +56,7 @@ Build a benckmark like [SelfExSR_Code](https://sites.google.com/site/jbhuang0604
   * Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network, Christian Ledig et al.
  * AffGAN [[PDF]](https://arxiv.org/pdf/1610.04490.pdf)
   * AMORTISED MAP INFERENCE FOR IMAGE SUPER-RESOLUTION, Casper Kaae Sønderby et al.
+ * neural-enchance [[Github]](https://github.com/alexjc/neural-enhance)
 
 ## Dicussion
 #### Deconvolution and Sub-Pixel Convolution
