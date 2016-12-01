@@ -3,6 +3,7 @@ A curated list of super-resolution resources and a benchmark for single image su
 
 See my implementated super-resolution algorithms:
 
++ [SRGAN](https://github.com/huangzehao/torch-srgan)
 + [VDSR](https://github.com/huangzehao/caffe-vdsr)
 + [CSCN](https://github.com/huangzehao/SCN_Matlab)
 
