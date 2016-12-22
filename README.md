@@ -59,6 +59,8 @@ Build a benckmark like [SelfExSR_Code](https://sites.google.com/site/jbhuang0604
   * AMORTISED MAP INFERENCE FOR IMAGE SUPER-RESOLUTION, Casper Kaae Sønderby et al.
  * neural-enchance [[Github]](https://github.com/alexjc/neural-enhance)
 
+#### Video SR
+ * VESPCN [[PDF]](Real-Time Video Super-Resolution with Spatio-Temporal Networks and Motion Compensation)
 ## Dicussion
 #### Deconvolution and Sub-Pixel Convolution
  * [Deconvolution and Checkerboard Artifacts](http://distill.pub/2016/deconv-checkerboard/)
