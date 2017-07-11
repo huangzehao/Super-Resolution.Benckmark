@@ -67,7 +67,8 @@ Build a benckmark like [SelfExSR_Code](https://sites.google.com/site/jbhuang0604
  * neural-enchance [[Github]](https://github.com/alexjc/neural-enhance)
 
 #### Video SR
- * VESPCN [[PDF]](Real-Time Video Super-Resolution with Spatio-Temporal Networks and Motion Compensation)
+ * VESPCN [[PDF]](https://arxiv.org/pdf/1611.05250.pdf)
+  * Real-Time Video Super-Resolution with Spatio-Temporal Networks and Motion Compensation (CVPR2017), Jose Caballero et al.
  
 ## Dicussion
 #### Deconvolution and Sub-Pixel Convolution
